@@ -1,2 +1,2 @@
 # ClickMe
-An application to book photographer nearby
+An application to book photographers nearby
